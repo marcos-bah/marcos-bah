@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Marcos Barbosa</h1>
 <h3 align="center">Sou um desenvolvedor brasileiro, apaixonado por Data Science e por criar aplicações mobiles.</h3>
 
-
-<p align="left"> <a href="https://twitter.com/_marcos_bah" target="blank"><img src="https://img.shields.io/twitter/follow/_marcos_bah?logo=twitter&style=for-the-badge" alt="_marcos_bah" /></a> </p>
-
 - 📫 How to reach me **marcos.ssrv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
