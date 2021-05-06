@@ -16,6 +16,9 @@
 
 - Olá, muito prazer, sou o Marcos Barbosa, seja bem vindo ao meu GitHub!
 
+### My Personal Blog
+- [Blog](https://marcos-barbosa.medium.com/) ✍🏼 - I'm write about many things.
+
 ---
 ### Technologies & Tools
 
